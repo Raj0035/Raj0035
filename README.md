@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raj0035
-- 👀 I’m interested in Font-End web developer
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in momos
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me E-mail:kcirving35@gmail.com
 
