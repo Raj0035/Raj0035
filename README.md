@@ -2,7 +2,7 @@
 - 👀 I’m interested in social welfare
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me E-mail:kcirving35@gmail.com
+- 📫 How to reach me E-mail:rajkumarchanda524@gmail.com
 
 <!---
 Raj0035/Raj0035 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
