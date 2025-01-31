@@ -1,7 +1,8 @@
-![Image Description]([https://in.pinterest.com/pin/5277724558346640/](https://i.pinimg.com/originals/10/28/f9/1028f99fd8f021b7b30e6e1899a88b29.gif))
+<img src="https://i.pinimg.com/originals/10/28/f9/1028f99fd8f021b7b30e6e1899a88b29.gif" alt="My GIF" style="max-width: 100%; height: auto;"/>
 
 
-<h1 align="center">Hi 👋, I'm Raj Kumar Chanda</h1>
+
+<h1 align="center">Hi 👋, I'm Raj kumar Chanda</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
