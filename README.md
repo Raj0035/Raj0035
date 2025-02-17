@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rajkumarchanda524@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1ea__UVqjGNsFz-p0CTkd3ZZlLmbvjPoN/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1TiSnGUecqZe3p3TEGihlaNC59n5SXNx3/view?usp=sharing)
 
 - ⚡ Fun fact **Dolt**
 
